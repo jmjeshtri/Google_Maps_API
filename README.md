@@ -10,4 +10,8 @@
 
 ![API_KEY](screenshots/key-api.png)
 
+## Reference 
+
+[Maps Javascript API](https://developers.google.com/maps/documentation/javascript?hl=en)
+
 [^IMPORTANT]: Note that this is a school project and the API_KEY was provided by the school. If you're using this source code you have to provide the API_KEY as shown in the screen shot above.
